@@ -1,3 +1,6 @@
+# Total Spigot Downloads
+[![TheTealViper's Spigot Downloads](https://githubdynamicgettexttoimage.aaronskeels2.repl.co/generate-image?spigotuserid=116592&width=125&height=60&fontsize=30)](https://www.spigotmc.org/resources/authors/thetealviper.116592/)
+
 # Tech I Use/Have Used
 ## IDEs
 [![Eclipse](https://img.shields.io/badge/-Eclipse-%23332959?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/)
