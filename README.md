@@ -43,4 +43,4 @@
 
 ## 📊 Github Stats
 ![TheTealViper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTealViper&layout=compact&theme=dark&hide_border=true)\
-![TheTealViper's GitHub Profile Views](https://komarev.com/ghpvc/?username=TheTealViper&color=ff69b4&style=for-the-badge)
+![TheTealViper's GitHub Profile Views](https://komarev.com/ghpvc/?username=TheTealViper&color=ff69b4&style=for-the-badge) (This is limited to anonymously proxied refreshes and not perfectly representative of unique profile views)
