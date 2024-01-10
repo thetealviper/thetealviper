@@ -1,5 +1,5 @@
 # My Total Spigot Mod Downloads
-[![TheTealViper's Spigot Mod Downloads](https://githubdynamicgettexttoimage.aaronskeels2.repl.co/generate-image?spigotuserid=116592&width=350&height=60&fontsize=30)](https://www.spigotmc.org/resources/authors/thetealviper.116592/)
+[![TheTealViper's Spigot Mod Downloads](https://dynamicgettexttoimage.adaptable.app/generate-image?spigotuserid=116592&width=350&height=60&fontsize=30)](https://www.spigotmc.org/resources/authors/thetealviper.116592/)
 
 # Tech I Use/Have Used
 ## IDEs
